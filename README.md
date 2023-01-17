@@ -1,11 +1,9 @@
 
-# Yevhenii 'Slider' Chernichenko
+# Yevhenii (Eugene) Chernichenko
 
 
 ## 🚀 About Me
-I'm a Junior Python Developer | ML, Data Science`
-- Django | Flask
-- PyTorch | TensorFlow
+I'm a Data Analyst
 
 
 ## 🔗 Links
@@ -15,5 +13,5 @@ I'm a Junior Python Developer | ML, Data Science`
 
 
 ## 🛠 Skills
-Python, Javascript, HTML, CSS, Git
+Python, PostgreSQL, MongoDB, Tableau, Excel
 

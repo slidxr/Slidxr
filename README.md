@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a highly motivated and detail-oriented data analyst with expertise in statistics and data analysis. I use tools such as Excel and Python to extract information and make data-driven decisions. I am a fast learner and always looking to expand my knowledge and skills in data analysis. I have excellent communication skills to clearly communicate my findings and recommendations to stakeholders. Glad to bring my analytical skills to a dynamic organization and contribute to the growth of the company through data analytics.
+I am a highly motivated and detail-oriented data analyst with expertise in statistics and data analysis. I use tools such as Excel, Python, SQL and Tableau to extract and visualize information and make data-driven decisions.. I am a fast learner and always looking to expand my knowledge and skills in data analysis. I have excellent communication skills to clearly communicate my findings and recommendations to stakeholders. Glad to bring my analytical skills to a dynamic organization and contribute to the growth of the company through data analytics.
 
 
 ## 🔗 Links

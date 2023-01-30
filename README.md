@@ -14,5 +14,5 @@ I am a highly motivated and detail-oriented data analyst with expertise in stati
 
 
 ## 🛠 Skills
-Python, PostgreSQL, MongoDB, Tableau, Excel
+Python, R, PostgreSQL, MongoDB, Tableau, Excel
 

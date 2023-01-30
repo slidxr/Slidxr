@@ -9,7 +9,6 @@ I am a highly motivated and detail-oriented data analyst with expertise in stati
 ## 🔗 Links
 
 [![linkedin](https://icons.iconarchive.com/icons/uiconstock/socialmedia/32/Linkedin-icon.png)](https://www.linkedin.com/in/slider2k/)
-[![Instagram](https://cdn.icon-icons.com/icons2/1584/PNG/32/3721672-instagram_108066.png)](https://Instagram.com/slider.2k)
 [![Kaggle](https://cdn.icon-icons.com/icons2/2699/PNG/32/kaggle_logo_icon_168473.png)](https://www.kaggle.com/slider2k)
 
 

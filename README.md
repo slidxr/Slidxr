@@ -30,7 +30,7 @@ I'm [Eugene "Slidxr"](https://slidxr.vercel.app)
 
 <div align="right">
   
-![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+![](https://komarev.com/ghpvc/?username=slidxr&style=flat)
 
 </div>
 

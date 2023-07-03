@@ -1,6 +1,6 @@
 <h3> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h3>
 
-### I'm [Eugene "Slidxr"](https://slidxr.vercel.app)
+### I'm [Eugen "Slidxr"](https://slidxr.vercel.app)
 
 
  

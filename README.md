@@ -36,7 +36,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 <div align="left">
 <br><h2>Github Stats</h2><br>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=slidxr&hide=issues&count_private=true&show_icons=true&theme=great-gatsby&line_height=32"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slidxr&layout=donut&count_private=true&hide=html,scss,ipynb,ejs&theme=great-gatsby&line_height=12"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=slidxr&hide=issues&count_private=true&show_icons=true&theme=great-gatsby&line_height=32"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slidxr&layout=donut&count_private=true&hide=html,scss,jupyter%20notebook,ejs&theme=great-gatsby&line_height=12"/>
 
 </div>
 

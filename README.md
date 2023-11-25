@@ -13,9 +13,9 @@ $ cat techStack.md
   • Tailwind
 # Backend
   • Node.js/Express.js
-  • Go
+  • Go | stage: perfecting
 # Systems Programming
-  • Rust
+  • Rust | stage: learning
 # Game Development
   • C++/Unreal Engine
 # Other Tools

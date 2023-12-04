@@ -16,8 +16,6 @@ $ cat techStack.md
   • Go | stage: perfecting
 # Systems Programming
   • Rust | stage: learning
-# Game Development
-  • C++/Unreal Engine
 # Other Tools
   • Vim
   • Git
